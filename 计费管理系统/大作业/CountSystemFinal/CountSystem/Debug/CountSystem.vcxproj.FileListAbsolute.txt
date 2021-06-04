@@ -1,0 +1,2 @@
+E:\CodeSave\C++\VS_CS\CountSystem\Debug\CountSystem.exe
+E:\CodeSave\C++\VS_CS\CountSystem\Debug\CountSystem.pdb

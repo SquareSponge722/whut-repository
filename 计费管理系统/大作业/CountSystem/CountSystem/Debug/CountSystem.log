@@ -1,0 +1,3 @@
+﻿  utils.cpp
+E:\CodeSave\C++\VS_CS\CountSystem\utils.cpp(68,9): warning C4101: “strToDouble”: 未引用的局部变量
+  CountSystem.vcxproj -> E:\CodeSave\C++\VS_CS\CountSystem\Debug\CountSystem.exe
