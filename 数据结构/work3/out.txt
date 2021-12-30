@@ -1,0 +1,14 @@
+term 1:
+b2
+a1
+h8
+term 2:
+i9
+e5
+j10
+term 3:
+c3
+g7
+d4
+term 4:
+f6
